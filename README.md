@@ -9,7 +9,7 @@ Desenvolver as tarefas, fazendo um fork neste repositorio, em pastas separadas, 
 
 Tarefas:
 
-1º 
+1º Tarefa 
 
 Criar um banco de dados contendo informações dos estados e cidades do Brasil. Deixe em anexo o sql do banco. Pode usar tanto SQL como NOSQL e utilizar Entity Framework nas consultas.
 Neste mesmo banco crie uma tabela de pessoa com os campos nome, cpf, estado e cidade.
