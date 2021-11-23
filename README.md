@@ -27,7 +27,7 @@ Coleta das cidades de um estado usando paginação nos dados.
 Criar uma função para inserir novas cidades.
 Criar uma função para atualizar novas cidades.
 Criar uma função para verificar se a cidade existe.
-Usar Data Anotations para validar os campos
+Usar Data Anotations para validar os campos.
 Desenvolver Testes Unitarios das tarefas acima.
 
 3º Tarefa
