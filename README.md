@@ -13,6 +13,7 @@ Tarefas:
 
 Criar um banco de dados contendo informações dos estados e cidades do Brasil. Deixe em anexo o sql do banco. Pode usar tanto SQL como NOSQL e utilizar Entity Framework nas consultas.
 Neste mesmo banco crie uma tabela de pessoa com os campos nome, cpf, estado e cidade.
+Tambem criar uma tabela de log, colocando os campos:  função usada, acao, hora e data
 
 
 2º Tarefa
@@ -30,6 +31,11 @@ Desenvolver Testes Unitarios das tarefas acima.
 
 Crie uma api que colete dados de uma pessoa como nome, cpf, estado e cidade e faça a inserção na tabela do banco pessoa.
 Essa api tem que consumir a outra api da tarefa 2 para validar se a cidade que usuario colocou tem no banco de dados.
+
+4º Tarefa 
+
+Desenvolver uma api com WebSocket usando signalr, conectando os dois servidores e coletar informações em tempo real de uma ação feita, e inserir na tabela de logs.
+
 
 Todas as tarefas da api é necessario a documentação em Swagger.
 
