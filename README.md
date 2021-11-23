@@ -5,6 +5,8 @@ Desafio para vaga Desenvolvedor de BackEnd C# no Grupo AgroCP
 
 Todas as tarefas tem que ser feitas em ASP NET CORE 3 ou NET CORE 5 com Entity Framework
 
+- Todas as tarefas, serão avaliadas, faça o que puder. As tarefas terão que ser entregues em dois dias desde do envio por email.
+
 Desenvolver as tarefas, fazendo um fork neste repositorio, em pastas separadas, seguindo o número da tarefa, como o nome da pasta Exemplo: "tarefa-1"
 
 Tarefas:
