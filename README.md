@@ -25,11 +25,13 @@ Coleta das cidades de um estado usando paginação nos dados.
 Criar uma função para inserir novas cidades,
 Criar uma função para atualizar novas cidades.
 Criar uma função para verificar se a cidade existe.
+Usar Data Anotations para validar os campos
 Desenvolver Testes Unitarios das tarefas acima.
 
 3º Tarefa
 
 Crie uma api que colete dados de uma pessoa como nome, cpf, estado e cidade e faça a inserção na tabela do banco pessoa.
+Usar Data Anotations para validar os campos
 Essa api tem que consumir a outra api da tarefa 2 para validar se a cidade que usuario colocou tem no banco de dados.
 
 4º Tarefa 
